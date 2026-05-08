@@ -1,17 +1,29 @@
 <div align="center">
 
-# 🎓 EduCore - University Portal & Learning Management System
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=34&pause=1000&color=2563EB&center=true&vCenter=true&width=1000&lines=EduCore+University+Portal+%26+LMS;Enterprise-Level+Academic+Management+System;Modern+UI%2FUX+Design+Project;Multi-Role+Learning+Management+Platform" />
 
-### Enterprise-Level Academic Management Ecosystem
+<br>
 
-Modern UI/UX design for a complete University Portal & Learning Management System (LMS) built with a scalable multi-role architecture.
+<h1>🎓 EduCore — University Portal & Learning Management System</h1>
 
----
+<h3>Enterprise-Level Academic Management Ecosystem</h3>
 
-![Status](https://img.shields.io/badge/Project-Completed-2563eb?style=for-the-badge)
-![Platform](https://img.shields.io/badge/Platform-University%20LMS-0f172a?style=for-the-badge)
-![Designed In](https://img.shields.io/badge/Designed%20In-Figma-a855f7?style=for-the-badge)
-![UI/UX](https://img.shields.io/badge/UI%2FUX-Enterprise%20Design-06b6d4?style=for-the-badge)
+<p>
+Modern UI/UX design for a complete University Portal & Learning Management System (LMS)
+built with scalable multi-role architecture and enterprise dashboard workflows.
+</p>
+
+<br>
+
+<img src="https://img.shields.io/badge/Project-Completed-2563eb?style=for-the-badge">
+<img src="https://img.shields.io/badge/Platform-University%20LMS-0f172a?style=for-the-badge">
+<img src="https://img.shields.io/badge/Designed%20In-Figma-a855f7?style=for-the-badge">
+<img src="https://img.shields.io/badge/UI%2FUX-Enterprise%20Design-06b6d4?style=for-the-badge">
+<img src="https://img.shields.io/badge/Architecture-MultiRole-success?style=for-the-badge">
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=MominurIslamRoby&label=Repository+Views&color=2563eb&style=for-the-badge" />
 
 </div>
 
@@ -19,9 +31,17 @@ Modern UI/UX design for a complete University Portal & Learning Management Syste
 
 # 📖 Project Overview
 
-EduCore is a modern enterprise-level University Portal and Learning Management System (LMS) that streamlines academic administration, faculty operations, and student learning experiences through a unified digital ecosystem.
+EduCore is a modern enterprise-level **University Portal & Learning Management System (LMS)** designed to streamline:
 
-The system follows a role-based architecture with dedicated portals for:
+- academic administration
+- faculty operations
+- student engagement
+- learning workflows
+- institutional communication
+
+through a unified digital ecosystem.
+
+The system follows a **role-based architecture** with dedicated portals for:
 
 - 👨‍💼 Administrators
 - 👨‍🏫 Teachers
@@ -33,13 +53,14 @@ Designed entirely in **Figma**, the platform focuses on:
 - enterprise dashboard workflows
 - academic management systems
 - usability
-- modern SaaS-inspired UI/UX principles
+- SaaS-inspired UI/UX principles
+- modern institutional experiences
 
 ---
 
 # ✨ Core Features
 
-##  Authentication System
+## 🔐 Authentication System
 
 - Secure Login System
 - OTP Verification
@@ -52,7 +73,7 @@ Designed entirely in **Figma**, the platform focuses on:
 
 ---
 
-#  Admin Portal
+# 👨‍💼 Admin Portal
 
 ### Administrative Features
 
@@ -69,7 +90,7 @@ Designed entirely in **Figma**, the platform focuses on:
 
 ---
 
-#  Teacher Portal
+# 👨‍🏫 Teacher Portal
 
 ### Faculty Features
 
@@ -84,7 +105,7 @@ Designed entirely in **Figma**, the platform focuses on:
 
 ---
 
-#  Student Portal
+# 👨‍🎓 Student Portal
 
 ### Student Features
 
@@ -100,20 +121,20 @@ Designed entirely in **Figma**, the platform focuses on:
 
 ---
 
-#  Design Highlights
+# 🎨 Design Highlights
 
 - Modern Enterprise UI
 - Clean Information Hierarchy
 - Consistent Design System
 - Scalable Component Architecture
-- SaaS-Inspired Dashboard Layouts
-- Multi-Role Interface Experience
+- SaaS Dashboard Experience
+- Multi-Role User Interfaces
 - Academic Workflow Optimization
 - Professional Analytics Visualization
 
 ---
 
-#  System Architecture
+# 🧩 System Architecture
 
 ```text
 EduCore Ecosystem
@@ -138,28 +159,32 @@ EduCore Ecosystem
     ├── Attendance
     └── Courses
 ```
-#  Project Modules
-
-| Module                | Status      |
-| --------------------- | ----------- |
-| Authentication System | ✅ Completed |
-| Admin Portal          | ✅ Completed |
-| Teacher Portal        | ✅ Completed |
-| Student Portal        | ✅ Completed |
-| Reports & Analytics   | ✅ Completed |
-| Settings & Security   | ✅ Completed |
-| LMS Workflow          | ✅ Completed |
 
 ---
-#  Tools & Technologies
 
-| Category          | Tools                           |
-| ----------------- | ------------------------------- |
-| UI/UX Design      | Figma                           |
-| Design System     | Component-Based Architecture    |
+# 🖥️ Project Modules
+
+| Module | Status |
+|---|---|
+| Authentication System | ✅ Completed |
+| Admin Portal | ✅ Completed |
+| Teacher Portal | ✅ Completed |
+| Student Portal | ✅ Completed |
+| Reports & Analytics | ✅ Completed |
+| Settings & Security | ✅ Completed |
+| LMS Workflow | ✅ Completed |
+
+---
+
+# 🛠️ Tools & Technologies
+
+| Category | Tools |
+|---|---|
+| UI/UX Design | Figma |
+| Design System | Component-Based Architecture |
 | Workflow Planning | Software Engineering Principles |
-| Interface Style   | Enterprise SaaS Dashboard       |
-| Documentation     | GitHub Markdown                 |
+| Interface Style | Enterprise SaaS Dashboard |
+| Documentation | GitHub Markdown |
 
 ---
 
@@ -175,54 +200,66 @@ EduCore-University-Portal-LMS
 └── README.md
 ```
 
-#  Project Goals
+---
 
-The primary objective of EduCore is to create a unified academic management ecosystem capable of improving:
+# 🎯 Project Goals
 
-institutional administration
-faculty productivity
-student engagement
-academic communication
-reporting efficiency
-digital learning workflows
+The primary objective of EduCore is to create a unified academic ecosystem capable of improving:
+
+- institutional administration
+- faculty productivity
+- student engagement
+- academic communication
+- reporting efficiency
+- digital learning workflows
 
 ---
 
-#  Academic Scope
+# 🎓 Academic Scope
 
 This project demonstrates concepts related to:
 
-Software Engineering
-Human Computer Interaction (HCI)
-UI/UX Design
-Role-Based Systems
-Academic Information Systems
-Learning Management Systems
-Enterprise Dashboard Architecture
+- Software Engineering
+- Human Computer Interaction (HCI)
+- UI/UX Design
+- Role-Based Systems
+- Academic Information Systems
+- Learning Management Systems
+- Enterprise Dashboard Architecture
 
 ---
 
 # 👥 Author
 
+<div align="center">
+
 ## Md. Mominur Islam Roby
 
-Computer Science & Engineering Student  
-American International University-Bangladesh (AIUB)
+🎓 Computer Science & Engineering Student  
+🏛️ American International University-Bangladesh (AIUB)
 
-### Project Role
+</div>
+
+### 🚀 Project Roles
+
 - UI/UX Designer
-- System Planner
-- LMS Architecture Designer
-- Academic Workflow Designer
+- LMS System Planner
+- Academic Workflow Architect
+- Enterprise Dashboard Designer
+- Information Architecture Planner
 
-  ---
+---
 
 # 📄 License
 
-This project is intended for academic and educational purposes.
+This project is intended for academic and educational purposes only.
 
 ---
 
 <div align="center">
-⭐ If you like this project, consider giving it a star!
-</div> ```
+
+### 🌟 If you like this project, consider giving it a star!
+
+<img src="https://img.shields.io/github/stars/MominurIslamRoby/EduCore-University-Portal-LMS?style=social" />
+
+</div>
