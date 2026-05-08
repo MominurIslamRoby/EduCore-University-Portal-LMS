@@ -165,6 +165,7 @@ EduCore Ecosystem
 
 # 📂 Repository Structure
 
+```text
 EduCore-University-Portal-LMS
 │
 ├── admin/
@@ -172,8 +173,7 @@ EduCore-University-Portal-LMS
 ├── student/
 ├── teacher/
 └── README.md
-
----
+```
 
 #  Project Goals
 
@@ -203,10 +203,19 @@ Enterprise Dashboard Architecture
 ---
 
 # 👥 Author
-Md. Mominur Islam Roby
-Computer Science & Engineering Student,
-American International University Bangladesh (AIUB)
----
+
+## Md. Mominur Islam Roby
+
+Computer Science & Engineering Student  
+American International University-Bangladesh (AIUB)
+
+### Project Role
+- UI/UX Designer
+- System Planner
+- LMS Architecture Designer
+- Academic Workflow Designer
+
+  ---
 
 # 📄 License
 
