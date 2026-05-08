@@ -132,3 +132,60 @@ EduCore Ecosystem
     ├── Grades
     ├── Attendance
     └── Courses
+🖥️ Project Modules
+Module	Status
+Authentication System	✅ Completed
+Admin Portal	✅ Completed
+Teacher Portal	✅ Completed
+Student Portal	✅ Completed
+Reports & Analytics	✅ Completed
+Settings & Security	✅ Completed
+LMS Workflow	✅ Completed
+🛠️ Tools & Technologies
+Category	Tools
+UI/UX Design	Figma
+Design System	Component-Based Architecture
+Workflow Planning	Software Engineering Principles
+Interface Style	Enterprise SaaS Dashboard
+Documentation	GitHub Markdown
+📂 Repository Structure
+EduCore-University-Portal-LMS
+│
+├── admin/
+├── authentication/
+├── student/
+├── teacher/
+└── README.md
+🚀 Project Goals
+
+The primary objective of EduCore is to create a unified academic management ecosystem capable of improving:
+
+institutional administration
+faculty productivity
+student engagement
+academic communication
+reporting efficiency
+digital learning workflows
+📌 Academic Scope
+
+This project demonstrates concepts related to:
+
+Software Engineering
+Human Computer Interaction (HCI)
+UI/UX Design
+Role-Based Systems
+Academic Information Systems
+Learning Management Systems
+Enterprise Dashboard Architecture
+👥 Authors
+Md. Mominur Islam Roby
+
+Software Engineering Project Team
+
+📄 License
+
+This project is intended for academic and educational purposes.
+
+<div align="center">
+⭐ If you like this project, consider giving it a star!
+</div> ```
