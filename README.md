@@ -1,6 +1,6 @@
-# 🎓 EduCore — University Portal & Learning Management System
-
 <div align="center">
+
+# 🎓 EduCore - University Portal & Learning Management System
 
 ### Enterprise-Level Academic Management Ecosystem
 
