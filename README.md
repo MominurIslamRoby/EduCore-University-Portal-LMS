@@ -25,6 +25,12 @@ built with scalable multi-role architecture and enterprise dashboard workflows.
 
 <img src="https://komarev.com/ghpvc/?username=MominurIslamRoby&label=Repository+Views&color=2563eb&style=for-the-badge" />
 
+<br><br>
+
+<a href="https://www.figma.com/proto/EWcMRWib6iwDWPpHxNt8jY/EduCore--University-Portal-and-LMS?node-id=0-1&t=qi7Yn6qj9xcy9xNv-1" target="_blank">
+  <img src="https://img.shields.io/badge/View-Live%20Prototype-2563eb?style=for-the-badge&logo=figma&logoColor=white" />
+</a>
+
 </div>
 
 ---
