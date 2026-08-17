@@ -1,146 +1,142 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&pause=1000&color=2563EB&center=true&vCenter=true&width=900&lines=EduCore+%E2%80%94+University+Portal+%26+LMS;Enterprise+Academic+Management+System;Multi-Role+UI%2FUX+Case+Study" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F72585,50:7209B7,100:3A0CA3&height=200&section=header&text=Mominur%20Islam%20Roby&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20C%23%20%C2%B7%20React%20%C2%B7%20TypeScript%20%C2%B7%20FastAPI&descAlignY=55&descSize=18" width="100%"/>
 
-<h1>🎓 EduCore — University Portal & Learning Management System</h1>
-<h4>UI/UX Case Study · Enterprise Academic Management Ecosystem</h4>
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35" />
 
-<img src="https://img.shields.io/badge/Type-UI%2FUX%20Case%20Study-2563EB?style=for-the-badge&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/Status-Completed-16A34A?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Designed%20In-Figma-A855F7?style=for-the-badge&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/Architecture-Multi--Role-0F172A?style=for-the-badge" />
+<img 
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=F72585&center=true&vCenter=true&width=800&lines=Building+Full-Stack+%26+AI-Integrated+Apps;C%23+%7C+React+%7C+TypeScript+%7C+FastAPI;Clean+Code.+Real+Products."
+  alt="Typing SVG"
+/>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=MominurIslamRoby&style=for-the-badge&color=F72585&label=PROFILE+VIEWS" />
+<img src="https://img.shields.io/github/followers/MominurIslamRoby?style=for-the-badge&color=7209B7&labelColor=000000" />
 
 <br><br>
 
-<a href="https://www.figma.com/proto/EWcMRWib6iwDWPpHxNt8jY/EduCore--University-Portal-and-LMS?node-id=0-1&t=qi7Yn6qj9xcy9xNv-1" target="_blank">
-  <img src="https://img.shields.io/badge/View-Live%20Prototype-2563EB?style=for-the-badge&logo=figma&logoColor=white" />
+<a href="https://www.linkedin.com/in/mominur-islam-roby/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<img src="https://komarev.com/ghpvc/?username=MominurIslamRoby&label=Repository+Views&color=2563EB&style=for-the-badge" />
+<a href="https://twitter.com/Mominur__Roby">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+<a href="https://mominurislamroby.com/">
+  <img src="https://img.shields.io/badge/Portfolio-F72585?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
 
 </div>
 
----
+<br>
 
-## 📖 Overview
+## 👨‍💻 About Me
 
-EduCore is an enterprise-level **University Portal & Learning Management System (LMS)** designed to unify academic administration, faculty operations, and student engagement into a single, role-based digital ecosystem.
-
-The system follows a **role-based architecture** with dedicated experiences for:
-
-| Role | Portal Focus |
-|---|---|
-| 👨‍💼 Administrator | Institution-wide management, reporting, system control |
-| 👨‍🏫 Teacher | Course delivery, grading, student performance tracking |
-| 👨‍🎓 Student | Learning access, submissions, academic progress |
-
-Designed end-to-end in **Figma**, the project applies SaaS-grade dashboard patterns and enterprise UI/UX principles to an academic domain — with an emphasis on scalability, information hierarchy, and usability across three distinct user roles.
-
----
-
-## ✨ Feature Scope
-
-### 🔐 Authentication & Access Control
-Secure login, OTP verification, password recovery, SSO (Google & Microsoft), and role-based access control (RBAC).
-
-### 👨‍💼 Admin Portal
-Dashboard analytics · user/teacher/student management · course management · institutional announcements · activity logs · system settings
-
-### 👨‍🏫 Teacher Portal
-Course management · gradebook · attendance tracking · assignment review · performance monitoring · faculty calendar
-
-### 👨‍🎓 Student Portal
-Course access · assignment submission · grade & attendance tracking · learning materials · academic announcements
-
----
-
-## 🧩 System Architecture
-
-```text
-EduCore Ecosystem
-│
-├── Authentication System
-│
-├── Admin Portal
-│   ├── User Management
-│   ├── Reports & Insights
-│   ├── System Settings
-│   └── Activity Logs
-│
-├── Teacher Portal
-│   ├── Course Management
-│   ├── Gradebook
-│   ├── Attendance
-│   └── Reports
-│
-└── Student Portal
-    ├── Assignments
-    ├── Grades
-    ├── Attendance
-    └── Learning Materials
+```yaml
+me = {
+  role: "Software Engineer",
+  stack: ["C#", "React", "TypeScript", "FastAPI", "Python"],
+  shipped: "StoreMate — smart store management system with automated PDF/QR invoicing",
+  focus: "AI-integrated full-stack applications",
+  motto: "Clean architecture > clever hacks"
+}
 ```
 
----
+🔗 Portfolio: **[mominurislamroby.com](https://mominurislamroby.com/)**
 
-## 🖥️ Module Status
+<br>
 
-| Module | Status |
-|---|---|
-| Authentication System | ✅ Completed |
-| Admin Portal | ✅ Completed |
-| Teacher Portal | ✅ Completed |
-| Student Portal | ✅ Completed |
-| Reports & Analytics | ✅ Completed |
-| Settings & Security | ✅ Completed |
+## 🛠 Tech Stack
 
----
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,react,ts,js,python,fastapi,html,css,tailwind,git,github,figma,linux&theme=dark&perline=7" />
+</p>
 
-## 📸 Screens
+<br>
 
-<!-- Export 3-4 key screens from Figma as PNGs and add them here, e.g.: -->
-<!-- <img src="./screenshots/admin-dashboard.png" width="800" /> -->
-<!-- <img src="./screenshots/student-portal.png" width="800" /> -->
+## ⚡ Skills Proficiency
 
----
+<p align="left">
+  <img src="https://img.shields.io/badge/C%23-85%25-F72585?style=for-the-badge&logo=csharp&logoColor=white&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/React-80%25-7209B7?style=for-the-badge&logo=react&logoColor=white&labelColor=1a1a2e" />
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/TypeScript-75%25-F72585?style=for-the-badge&logo=typescript&logoColor=white&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/FastAPI-70%25-7209B7?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=1a1a2e" />
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-70%25-F72585?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-80%25-7209B7?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=1a1a2e" />
+</p>
 
-## 🎨 Design Approach
+<br>
 
-- **Research:** Identified common friction points in existing university portals (fragmented navigation, unclear grading visibility, weak role separation)
-- **Information Architecture:** Structured three distinct role-based portals sharing one coherent design language
-- **Design System:** Built a reusable component library — buttons, cards, navigation, forms, and data tables — for consistency across all portals
-- **High-Fidelity UI:** Delivered enterprise-grade dashboard interfaces with production-ready visual polish
+## 🚀 Featured Projects
 
----
+<table>
+  <tr>
+    <td width="50%">
+      <h4>🏪 StoreMate</h4>
+      <p>Smart store management system — inventory tracking, sales handling, and automated PDF invoice generation with QR codes.</p>
+      <b>Stack:</b> C#<br/>
+      <a href="https://github.com/MominurIslamRoby/StoreMate-Smart-Management-for-Modern-Stores">View Repo →</a>
+    </td>
+    <td width="50%">
+      <h4>📊 Vizora AI</h4>
+      <p>A fully functional web app for visualizing data, built end-to-end with a modern TypeScript stack.</p>
+      <b>Stack:</b> TypeScript<br/>
+      <a href="https://github.com/MominurIslamRoby/Vizora-AI">View Repo →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h4>🧮 Scientific Calculator</h4>
+      <p>A React + Vite + Tailwind scientific calculator with DEG/RAD modes, deployed on GitHub Pages.</p>
+      <b>Stack:</b> React, Vite, Tailwind<br/>
+      <a href="https://github.com/MominurIslamRoby/scientific-calculator">View Repo →</a>
+    </td>
+    <td width="50%">
+      <h4>🎨 Design Work</h4>
+      <p>EduCore — Enterprise University Portal & LMS, a full multi-role UI/UX case study designed end-to-end in Figma.</p>
+      <b>Tools:</b> Figma, FigJam<br/>
+      <a href="https://github.com/MominurIslamRoby/EduCore-University-Portal-LMS">View Case Study →</a>
+    </td>
+  </tr>
+</table>
 
-## 🛠️ Tools & Methods
+<br>
 
-| Category | Details |
-|---|---|
-| Design Tool | Figma (component variants, auto-layout) |
-| Planning | FigJam (user flows, information architecture) |
-| Design System | Token-based, component-driven architecture |
-| Interface Style | Enterprise SaaS dashboard |
+## 🐍 Contribution Snake
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MominurIslamRoby/MominurIslamRoby/output/github-contribution-grid-snake.svg" alt="Contribution Snake animation" width="100%" />
+</p>
 
-## 🎯 Project Goals
+<br>
 
-EduCore demonstrates the ability to design a unified academic ecosystem that improves institutional administration, faculty productivity, student engagement, and reporting efficiency — applying software architecture thinking to UI/UX design.
+## 🔥 Contribution Heatmap
 
----
+<p align="center">
+  <img src="https://ghchart.rshah.org/F72585/MominurIslamRoby" alt="Mominur's GitHub Contribution Chart" width="100%" />
+</p>
 
-## 👤 Author
+<br>
 
-**Mominur Islam Roby**
-UI/UX Designer · Information Architecture Planner
+## 🌐 Connect With Me
 
-[GitHub](https://github.com/MominurIslamRoby) · [LinkedIn](https://www.linkedin.com/in/mominur-islam-roby/) · [Portfolio](https://mominurislamroby.com/)
+<p align="center">
+  <a href="https://github.com/MominurIslamRoby">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/mominur-islam-roby/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/Mominur__Roby">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://mominurislamroby.com/">
+    <img src="https://img.shields.io/badge/Portfolio-F72585?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+</p>
 
----
-
-<div align="center">
-
-**⭐ If this case study is useful to you, consider starring the repo**
-
-<img src="https://img.shields.io/github/stars/MominurIslamRoby/EduCore-University-Portal-LMS?style=social" />
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3A0CA3,50:7209B7,100:F72585&height=150&section=footer"/>
