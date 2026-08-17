@@ -1,146 +1,59 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=34&pause=1000&color=2563EB&center=true&vCenter=true&width=1000&lines=EduCore+University+Portal+%26+LMS;Enterprise-Level+Academic+Management+System;Modern+UI%2FUX+Design+Project;Multi-Role+Learning+Management+Platform" />
-
-<br>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&pause=1000&color=2563EB&center=true&vCenter=true&width=900&lines=EduCore+%E2%80%94+University+Portal+%26+LMS;Enterprise+Academic+Management+System;Multi-Role+UI%2FUX+Case+Study" />
 
 <h1>🎓 EduCore — University Portal & Learning Management System</h1>
+<h4>UI/UX Case Study · Enterprise Academic Management Ecosystem</h4>
 
-<h3>Enterprise-Level Academic Management Ecosystem</h3>
-
-<p>
-Modern UI/UX design for a complete University Portal & Learning Management System (LMS)
-built with scalable multi-role architecture and enterprise dashboard workflows.
-</p>
-
-<br>
-
-<img src="https://img.shields.io/badge/Project-Completed-2563eb?style=for-the-badge">
-<img src="https://img.shields.io/badge/Platform-University%20LMS-0f172a?style=for-the-badge">
-<img src="https://img.shields.io/badge/Designed%20In-Figma-a855f7?style=for-the-badge">
-<img src="https://img.shields.io/badge/UI%2FUX-Enterprise%20Design-06b6d4?style=for-the-badge">
-<img src="https://img.shields.io/badge/Architecture-MultiRole-success?style=for-the-badge">
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=MominurIslamRoby&label=Repository+Views&color=2563eb&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Type-UI%2FUX%20Case%20Study-2563EB?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Status-Completed-16A34A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Designed%20In-Figma-A855F7?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Architecture-Multi--Role-0F172A?style=for-the-badge" />
 
 <br><br>
 
 <a href="https://www.figma.com/proto/EWcMRWib6iwDWPpHxNt8jY/EduCore--University-Portal-and-LMS?node-id=0-1&t=qi7Yn6qj9xcy9xNv-1" target="_blank">
-  <img src="https://img.shields.io/badge/View-Live%20Prototype-2563eb?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/View-Live%20Prototype-2563EB?style=for-the-badge&logo=figma&logoColor=white" />
 </a>
+<img src="https://komarev.com/ghpvc/?username=MominurIslamRoby&label=Repository+Views&color=2563EB&style=for-the-badge" />
 
 </div>
 
 ---
 
-# 📖 Project Overview
+## 📖 Overview
 
-EduCore is a modern enterprise-level **University Portal & Learning Management System (LMS)** designed to streamline:
+EduCore is an enterprise-level **University Portal & Learning Management System (LMS)** designed to unify academic administration, faculty operations, and student engagement into a single, role-based digital ecosystem.
 
-- academic administration
-- faculty operations
-- student engagement
-- learning workflows
-- institutional communication
+The system follows a **role-based architecture** with dedicated experiences for:
 
-through a unified digital ecosystem.
+| Role | Portal Focus |
+|---|---|
+| 👨‍💼 Administrator | Institution-wide management, reporting, system control |
+| 👨‍🏫 Teacher | Course delivery, grading, student performance tracking |
+| 👨‍🎓 Student | Learning access, submissions, academic progress |
 
-The system follows a **role-based architecture** with dedicated portals for:
-
-- 👨‍💼 Administrators
-- 👨‍🏫 Teachers
-- 👨‍🎓 Students
-
-Designed entirely in **Figma**, the platform focuses on:
-
-- scalability
-- enterprise dashboard workflows
-- academic management systems
-- usability
-- SaaS-inspired UI/UX principles
-- modern institutional experiences
+Designed end-to-end in **Figma**, the project applies SaaS-grade dashboard patterns and enterprise UI/UX principles to an academic domain — with an emphasis on scalability, information hierarchy, and usability across three distinct user roles.
 
 ---
 
-# ✨ Core Features
+## ✨ Feature Scope
 
-## 🔐 Authentication System
+### 🔐 Authentication & Access Control
+Secure login, OTP verification, password recovery, SSO (Google & Microsoft), and role-based access control (RBAC).
 
-- Secure Login System
-- OTP Verification
-- Forgot Password Workflow
-- Password Reset
-- Single Sign-On (SSO)
-- Google Authentication
-- Microsoft Authentication
-- Role-Based Access Control (RBAC)
+### 👨‍💼 Admin Portal
+Dashboard analytics · user/teacher/student management · course management · institutional announcements · activity logs · system settings
 
----
+### 👨‍🏫 Teacher Portal
+Course management · gradebook · attendance tracking · assignment review · performance monitoring · faculty calendar
 
-# 👨‍💼 Admin Portal
-
-### Administrative Features
-
-- Dashboard Analytics
-- User Management
-- Teacher Management
-- Student Management
-- Course Management
-- Reports & Insights
-- Institutional Announcements
-- Activity Logs
-- System Settings
-- Help & Support Center
+### 👨‍🎓 Student Portal
+Course access · assignment submission · grade & attendance tracking · learning materials · academic announcements
 
 ---
 
-# 👨‍🏫 Teacher Portal
-
-### Faculty Features
-
-- Course Management
-- Assignment Review
-- Gradebook System
-- Attendance Tracking
-- Faculty Calendar
-- Reports & Analytics
-- Student Performance Monitoring
-- Announcement Broadcasting
-
----
-
-# 👨‍🎓 Student Portal
-
-### Student Features
-
-- Course Access
-- Assignment Submission
-- Grade Tracking
-- Attendance Monitoring
-- Academic Announcements
-- Learning Materials
-- Profile Management
-- Account Settings
-- Help & Support
-
----
-
-# 🎨 Design Highlights
-
-- Modern Enterprise UI
-- Clean Information Hierarchy
-- Consistent Design System
-- Scalable Component Architecture
-- SaaS Dashboard Experience
-- Multi-Role User Interfaces
-- Academic Workflow Optimization
-- Professional Analytics Visualization
-
----
-
-# 🧩 System Architecture
+## 🧩 System Architecture
 
 ```text
 EduCore Ecosystem
@@ -149,12 +62,12 @@ EduCore Ecosystem
 │
 ├── Admin Portal
 │   ├── User Management
-│   ├── Reports
-│   ├── Settings
+│   ├── Reports & Insights
+│   ├── System Settings
 │   └── Activity Logs
 │
 ├── Teacher Portal
-│   ├── Courses
+│   ├── Course Management
 │   ├── Gradebook
 │   ├── Attendance
 │   └── Reports
@@ -163,12 +76,12 @@ EduCore Ecosystem
     ├── Assignments
     ├── Grades
     ├── Attendance
-    └── Courses
+    └── Learning Materials
 ```
 
 ---
 
-# 🖥️ Project Modules
+## 🖥️ Module Status
 
 | Module | Status |
 |---|---|
@@ -178,93 +91,55 @@ EduCore Ecosystem
 | Student Portal | ✅ Completed |
 | Reports & Analytics | ✅ Completed |
 | Settings & Security | ✅ Completed |
-| LMS Workflow | ✅ Completed |
 
 ---
 
-# 🛠️ Tools & Technologies
+## 📸 Screens
 
-| Category | Tools |
+<!-- Export 3-4 key screens from Figma as PNGs and add them here, e.g.: -->
+<!-- <img src="./screenshots/admin-dashboard.png" width="800" /> -->
+<!-- <img src="./screenshots/student-portal.png" width="800" /> -->
+
+---
+
+## 🎨 Design Approach
+
+- **Research:** Identified common friction points in existing university portals (fragmented navigation, unclear grading visibility, weak role separation)
+- **Information Architecture:** Structured three distinct role-based portals sharing one coherent design language
+- **Design System:** Built a reusable component library — buttons, cards, navigation, forms, and data tables — for consistency across all portals
+- **High-Fidelity UI:** Delivered enterprise-grade dashboard interfaces with production-ready visual polish
+
+---
+
+## 🛠️ Tools & Methods
+
+| Category | Details |
 |---|---|
-| UI/UX Design | Figma |
-| Design System | Component-Based Architecture |
-| Workflow Planning | Software Engineering Principles |
-| Interface Style | Enterprise SaaS Dashboard |
-| Documentation | GitHub Markdown |
+| Design Tool | Figma (component variants, auto-layout) |
+| Planning | FigJam (user flows, information architecture) |
+| Design System | Token-based, component-driven architecture |
+| Interface Style | Enterprise SaaS dashboard |
 
 ---
 
-# 📂 Repository Structure
+## 🎯 Project Goals
 
-```text
-EduCore-University-Portal-LMS
-│
-├── admin/
-├── authentication/
-├── student/
-├── teacher/
-└── README.md
-```
+EduCore demonstrates the ability to design a unified academic ecosystem that improves institutional administration, faculty productivity, student engagement, and reporting efficiency — applying software architecture thinking to UI/UX design.
 
 ---
 
-# 🎯 Project Goals
+## 👤 Author
 
-The primary objective of EduCore is to create a unified academic ecosystem capable of improving:
+**Mominur Islam Roby**
+UI/UX Designer · Information Architecture Planner
 
-- institutional administration
-- faculty productivity
-- student engagement
-- academic communication
-- reporting efficiency
-- digital learning workflows
-
----
-
-# 🎓 Academic Scope
-
-This project demonstrates concepts related to:
-
-- Software Engineering
-- Human Computer Interaction (HCI)
-- UI/UX Design
-- Role-Based Systems
-- Academic Information Systems
-- Learning Management Systems
-- Enterprise Dashboard Architecture
-
----
-
-# 👥 Author
-
-<div align="center">
-
-## Md. Mominur Islam Roby
-
-🎓 Computer Science & Engineering Student  
-🏛️ American International University-Bangladesh (AIUB)
-
-</div>
-
-### 🚀 Project Roles
-
-- UI/UX Designer
-- LMS System Planner
-- Academic Workflow Architect
-- Enterprise Dashboard Designer
-- Information Architecture Planner
-
----
-
-# 📄 License
-
-This project is intended for academic and educational purposes only.
+[GitHub](https://github.com/MominurIslamRoby) · [LinkedIn](https://www.linkedin.com/in/mominur-islam-roby/) · [Portfolio](https://mominurislamroby.com/)
 
 ---
 
 <div align="center">
 
-### 🌟 If you like this project, consider giving it a star!
+**⭐ If this case study is useful to you, consider starring the repo**
 
 <img src="https://img.shields.io/github/stars/MominurIslamRoby/EduCore-University-Portal-LMS?style=social" />
 
